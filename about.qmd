@@ -2,5 +2,6 @@
 title: "About"
 ---
 
-Akhil Bellamkonda
+My name is **Akhil Bellamkonda**, I am a Freshman at **Plainfield North High School**
 
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
